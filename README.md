@@ -106,5 +106,6 @@ df1_new.boxplot()
 ## Removing Outliers of height using IQR
 ![Removing Outliers](/images/imag5.png)
 
+
 # RESULT
 Thus the outliers are detected and removed in the given file and the final data set is saved into the file.
