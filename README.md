@@ -8,25 +8,18 @@ Outlier is a data object that deviates significantly from the rest of the data o
 # ALGORITHM
 ## STEP 1
 Import the required packages(pandas,numpy,scipy)
-
 ## STEP 2
 Read the given csv file
-
 ## STEP 3
 Convert the file into a dataframe and get information of the data.
-
 ## STEP 4
 Remove the non numerical data columns using drop() method.
-
 ## STEP 5
 Detect the outliers in the data set using z scores method.
-
 ## STEP 6
 Remove the outliers by z scores and list manupilation or by using Interquartile Range(IQR)
-
 ## STEP 7
 Check if the outliers are removed from data set using graphical methods.
-
 ## STEP 8
 Save the final data set into the file
 
